@@ -57,6 +57,7 @@ button {
     background-color: transparent;
     width: 70px;
     margin-top: 20px;
+    cursor: pointer;
 }
 
 
